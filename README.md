@@ -1,4 +1,5 @@
 👋 Hi, I'm Samuel Barefoot
+
 👨‍💻 Software Engineering Consultant | Team Lead | Lover of Concord Grapes
 Welcome to my GitHub profile! I'm a Software Engineering Consultant with a passion for building innovative solutions and leading teams to success. My expertise lies in custom data security applications, test data management, and exploring the potential of AI-paired programming.
 
@@ -6,6 +7,7 @@ Welcome to my GitHub profile! I'm a Software Engineering Consultant with a passi
 Programming Languages: Python, C#
 Web Development: Proficient in a variety of web development toolkits
 Specializations: Data security, backend engineering, test automation
+
 💼 Professional Experience
 Avanade (Montreal, Quebec, Canada)
 Software Development Consultant
@@ -31,6 +33,7 @@ Nov 2019 – Jun 2020
 
 Overhauled internal systems for scalability and efficiency
 Created automated testing protocols and developed a new Customer Success process
+
 🎓 Educational Background
 Dalhousie University
 Bachelor of Applied Science (BASc), Applied Computer Science & Management
@@ -48,6 +51,7 @@ Bachelor of Applied Science (BASc), Cognitive Science
 🌱 What I'm Working On
 Developing innovative data security tools and integrating AI into the development lifecycle
 Exploring emerging technologies to improve software engineering practices
+
 🚀 Let's Connect!
 Based in Montreal, Quebec, Canada
 Reach out to collaborate on open-source projects or professional opportunities!
